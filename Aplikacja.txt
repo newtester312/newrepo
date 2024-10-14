@@ -1,0 +1,18 @@
+   public void logowanie() {
+        System.out.println("Podaj nazwę użytkownika");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+   public void logowanieGoogle() {
+        System.out.println("Podaj e-mail z Gmaila");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+   public void logowanieMicrosoft() {
+        System.out.println("Podaj nazwę użytkownika");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+   public void przypomnienieHasła() {
+        System.out.println("Kliknij na przycisk przypomnij hasło");
+    }
